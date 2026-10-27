@@ -111,4 +111,4 @@ This project is licensed under the MIT License.
 
 **Alexandr Cojuhari**
 - [GitHub](https://github.com/SirAdAstra)
-- [LinkedIn](www.linkedin.com/in/siradastra)
+- [LinkedIn](https://www.linkedin.com/in/siradastra)
